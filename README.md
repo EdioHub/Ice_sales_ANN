@@ -1,4 +1,4 @@
-# Icecream_sales_ANN
+# Ice_cream_sales_ANN
 ##Rede neural com uma camada densa  em Keras e comparativa com SKlearn
 
 O modelo de previsão que estamos utilizando se baseia exclusivamente nas mudanças de temperatura para prever as vendas de sorvete. No entanto, é importante ressaltar que as vendas podem ser influenciadas por diversos outros fatores, como o dia da semana, condições climáticas, eventos especiais, férias e uma série de variáveis que certamente desempenham um papel significativo no resultado das vendas.
